@@ -28,9 +28,9 @@ program
 
       var T = new Twit(botUtilities.getTwitterAuthFromEnv());
 
-      T.updateWithMedia('', null, buffer, function (err, response, body) {
-        if (err || response.statusCode !== 200) {
-          return console.log('TUWM error', err, body);
+      T.updateWithMedia({status: ''}, buffer, function (updateError) {
+        if (updateError) {
+          return console.log('TUWM error', updateError);
         }
 
         console.log('TUWM OK');

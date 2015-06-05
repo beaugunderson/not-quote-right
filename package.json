@@ -11,22 +11,22 @@
     "url": "https://github.com/beaugunderson/node-twitter-not-quote-right.git"
   },
   "author": "Beau Gunderson <beau@beaugunderson.com>",
-  "license": "BSD",
+  "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/beaugunderson/node-twitter-not-quote-right/issues"
   },
   "homepage": "https://github.com/beaugunderson/node-twitter-not-quote-right",
   "dependencies": {
-    "async": "^0.9.0",
-    "bot-utilities": "^1.0.3",
-    "canvas-utilities": "^2.0.1",
-    "color": "^0.7.3",
+    "async": "^1.2.0",
+    "bot-utilities": "^2.3.0",
+    "canvas-utilities": "^2.1.0",
+    "color": "^0.8.0",
     "colour-extractor": "^0.2.1",
-    "commander": "^2.5.0",
-    "csv-parse": "0.0.6",
-    "glob": "^4.0.6",
-    "lodash": "^2.4.1",
-    "sentence-tools": "^1.0.0",
-    "twit": "^1.1.18"
+    "commander": "^2.8.1",
+    "csv-parse": "0.1.2",
+    "glob": "^5.0.10",
+    "lodash": "^3.9.3",
+    "sentence-tools": "^3.2.0",
+    "twit": "^1.1.20"
   }
 }
