@@ -17,16 +17,16 @@
   },
   "homepage": "https://github.com/beaugunderson/node-twitter-not-quote-right",
   "dependencies": {
-    "async": "^1.4.2",
-    "bot-utilities": "^2.3.0",
-    "canvas-utilities": "^2.1.0",
-    "color": "^0.10.1",
+    "async": "^3.1.0",
+    "bot-utilities": "^2.5.1",
+    "canvas-utilities": "^2.3.0",
+    "color": "^3.1.2",
     "colour-extractor": "^0.2.1",
-    "commander": "^2.8.1",
-    "csv-parse": "1.0.0",
-    "glob": "^5.0.15",
-    "lodash": "^3.10.1",
-    "sentence-tools": "^3.4.0",
-    "twit": "^2.1.0"
+    "commander": "^2.20.0",
+    "csv-parse": "4.4.3",
+    "glob": "^7.1.4",
+    "lodash": "^4.17.15",
+    "sentence-tools": "^4.0.0",
+    "twit": "^2.2.11"
   }
 }
