@@ -25,7 +25,7 @@
     "commander": "^2.20.0",
     "csv-parse": "4.4.6",
     "glob": "^7.1.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "sentence-tools": "^4.0.0",
     "twit": "^2.2.11"
   }
