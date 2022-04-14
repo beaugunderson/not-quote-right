@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/beaugunderson/node-twitter-not-quote-right",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "bot-utilities": "^2.5.1",
     "canvas-utilities": "^2.3.0",
     "color": "^3.1.2",
